@@ -1,0 +1,6840 @@
+The	C
+authors	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+is	R:VERB:SVA
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+laughs	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+swims	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+smiles	R:VERB:SVA
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+old	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+is	R:VERB:SVA
+young	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+authors	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+authors	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+authors	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+authors	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+authors	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+authors	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+authors	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+pilots	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+pilots	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+pilots	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+pilots	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+pilots	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+pilots	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+pilots	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+surgeons	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+surgeons	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+surgeons	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+surgeons	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+surgeons	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+surgeons	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+surgeons	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+farmers	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+farmers	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+farmers	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+farmers	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+farmers	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+farmers	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+farmers	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+managers	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+managers	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+managers	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+managers	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+managers	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+managers	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+managers	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+customers	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+customers	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+customers	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+customers	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+customers	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+customers	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+customers	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+officers	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+officers	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+officers	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+officers	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+officers	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+officers	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+officers	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+teachers	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+teachers	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+teachers	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+teachers	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+teachers	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+teachers	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+teachers	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+senators	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+senators	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+senators	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+senators	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+senators	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+senators	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+senators	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+swim	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+smile	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+consultants	C
+laugh	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+laugh	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+smile	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+consultants	C
+swim	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+laugh	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+swim	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+consultants	C
+smile	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+laugh	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+swim	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+smile	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+consultants	C
+are	C
+tall	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+laugh	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+swim	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+smile	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+are	C
+young	C
+.	C
+
+The	C
+consultants	C
+are	C
+old	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+laugh	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+swim	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+smile	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+consultants	C
+are	C
+young	C
+and	C
+are	C
+short	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+laugh	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+swim	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+smile	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+are	C
+tall	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+are	C
+old	C
+.	C
+
+The	C
+consultants	C
+are	C
+short	C
+and	C
+are	C
+young	C
+.	C
+

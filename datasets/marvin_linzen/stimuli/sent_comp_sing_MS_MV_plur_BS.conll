@@ -1,0 +1,7200 @@
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+laugh	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+swim	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+smile	R:VERB:SVA
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+are	R:VERB:SVA
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+author	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+pilot	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+surgeon	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+farmer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+manager	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+customer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+officer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+teacher	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+senator	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+said	C
+the	C
+consultant	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+author	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+pilot	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+surgeon	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+farmer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+manager	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+customer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+officer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+teacher	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+senator	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+thought	C
+the	C
+consultant	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+author	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+pilot	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+surgeon	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+farmer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+manager	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+customer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+officer	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+teacher	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+senator	C
+is	C
+short	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+laughs	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+swims	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+smiles	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+is	C
+tall	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+is	C
+old	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+is	C
+young	C
+.	C
+
+The	C
+mechanics	C
+knew	C
+the	C
+consultant	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+author	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+pilot	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+surgeon	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+farmer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+manager	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+customer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+officer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+teacher	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+senator	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+swims	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+said	C
+the	C
+consultant	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+author	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+pilot	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+surgeon	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+farmer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+manager	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+customer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+officer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+teacher	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+senator	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+swims	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+thought	C
+the	C
+consultant	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+author	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+pilot	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+surgeon	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+farmer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+manager	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+customer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+officer	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+teacher	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+senator	C
+is	C
+short	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+laughs	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+swims	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+smiles	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+is	C
+tall	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+is	C
+old	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+is	C
+young	C
+.	C
+
+The	C
+bankers	C
+knew	C
+the	C
+consultant	C
+is	C
+short	C
+.	C
+
