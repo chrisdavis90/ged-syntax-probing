@@ -181,7 +181,7 @@ if __name__ == '__main__':
         # drop training sets by default
         datasets.pop('wibea_rverbsva', None)
         datasets.pop('wiki_rverbsva', None)
-        datasets.pop('wiki_rverbsva_notobe', None)
+        datasets.pop('wiki_rverbsva_nomlverbs', None)
 
     # filter models
     if args.model:

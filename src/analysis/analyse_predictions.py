@@ -211,7 +211,7 @@ if __name__ == '__main__':
     for multiple in [1]:
         for version in range(1, 6):
             model_params.append(('wiki', f'rverbsva_train{multiple}xv{version}'))
-            model_params.append(('wiki', f'rverbsva_notobe_train{multiple}xv{version}'))
+            model_params.append(('wiki', f'rverbsva_nomlverbs_train{multiple}xv{version}'))
 
     for model_name in tqdm(model_names):
         for train_name, train_tag in tqdm(model_params):

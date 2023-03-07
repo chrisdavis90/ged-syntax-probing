@@ -88,8 +88,8 @@ def get_encoded_data_path(base_path: str, dataset_name: str, model_name: str, da
 
 def get_wikiedits_files(without_ml_verbs: bool = False) -> list:
     if without_ml_verbs:
-        file_pattern = 'wiked.tok.r-verb-sva.notobe.train*.conll'
-        dev_file_pattern = 'wiked.tok.r-verb-sva.notobe.dev.conll'
+        file_pattern = 'wiked.tok.r-verb-sva.nomlverbs.train*.conll'
+        dev_file_pattern = 'wiked.tok.r-verb-sva.nomlverbs.dev.conll'
     else:
         file_pattern = 'wiked.tok.r-verb-sva.train.conll'
         dev_file_pattern = 'wiked.tok.r-verb-sva.train.conll'
@@ -120,7 +120,7 @@ def get_datasets() -> dict:
             reader='default',
             data=get_wikiedits_files(without_ml_verbs=False)
         ),
-        'wiki_rverbsva_notobe': TrainDatasetInfo(
+        'wiki_rverbsva_nomlverbs': TrainDatasetInfo(
             basepath=WIKEDITS_BASE,
             reader='default',
             data=get_wikiedits_files(without_ml_verbs=True)

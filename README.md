@@ -29,7 +29,7 @@ You can also run the scripts from steps 1-3 with with two optional arguments, in
 
 ## Results from the paper
 
-The results and plots from the paper are included in the "results" folder. The folders tagged "notobe" are from the second experiment, with the "-mlverbs" tag indicating the results from probes trained without "is" and "are".
+The results and plots from the paper are included in the "results" folder. The folders tagged "nomlverbs" are from the second experiment, with the "-mlverbs" tag indicating the results from probes trained without the verbs included in Marvin & Linzen (except for "to be").
 
 ## Encoding your own datasets
 

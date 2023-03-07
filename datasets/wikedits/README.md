@@ -12,7 +12,7 @@ Pre-processing:
 
 As detailed in the paper, for the first experiment, we sample 1936 (1x) sentences to match the number of sentences from the learner corpora. We sample 5 times to create v1 - v5 versions of the training set.
 
-For the second experiment, we remove "to be" verbs and increase the training set size to 7744 (4x) and 15488 (8x) sentences. Again, sampled five times.
+For the second experiment, we remove the verbs included in the Marvin & Linzen dataset (except for "to be") and increase the training set size to 7744 (4x) and 15488 (8x) sentences. Again, sampled five times.
 
 The sampled training and development sets can be found in this folder.
 
